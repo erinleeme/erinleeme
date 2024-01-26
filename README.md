@@ -1,1 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!I'mErin.&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=auto&text=Hi!%20I'm%20Erin&section=header&reversal=false" />
+
+
